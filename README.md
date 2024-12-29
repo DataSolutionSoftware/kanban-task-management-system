@@ -1,4 +1,4 @@
-# Kanban Task Management ystem
+# Kanban Task Management System
 
 Built with React.js and powered by Google Sheets, this software demonstrates how to create a robust task management solution without expensive infrastructure.
 
